@@ -15,6 +15,7 @@ http://www.keyboard-layout-editor.com/#/
 
 ## Raw Data
 위 사이트에 들어가서 `</> Raw Data` 탭을 클릭해서 붙여넣기 하면 된다.
+
 ![click `</> Raw Data` tab](https://github.com/soboti/v1-split-keyboard/assets/109705692/487f089e-8708-4e3d-9aec-da8562496909)
 
 ### 좌측
@@ -26,9 +27,10 @@ http://www.keyboard-layout-editor.com/#/
 [{c:"#c8c3b8",w:1.75},"Caps",{c:"#cccccc"},"A","S","D","F","G","H"],
 [{c:"#c8c3b8",w:2.25},"Shift",{c:"#cccccc"},"Z","X","C","V","B"],
 [{c:"#c8c3b8",w:1.5},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt"],
-[{r:-30,y:2,w:3.25},"Space"]
+[{r:-30,y:2,w:2.75},"Space"]
 ```
-![left-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/5c5b3585-a2f7-4381-b481-931dbc00665e)
+![left-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/6797572f-0429-4ea7-9331-5b93436215e9)
+
 
 
 ### 우측
@@ -45,4 +47,9 @@ http://www.keyboard-layout-editor.com/#/
 [{r:30,y:-3.25,x:4,c:"#c8c3b8",t:"#000000",w:2.75},"Space"]
 ```
 ![right-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/354e41ee-dca4-4dcb-93eb-2e2fcc43866d)
+
+### 종합
+`Summary` 탭에 들어가면 구성한 키보드의 키캡을 정리 및 요약해서 보여준다.
+
+![total-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/4476e8d3-031f-4067-9030-4564a401319c)
 
