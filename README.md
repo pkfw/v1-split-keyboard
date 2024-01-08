@@ -52,4 +52,8 @@ http://www.keyboard-layout-editor.com/#/
 
 ![summary-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/8a40239b-e950-496c-b742-4fa977e18f57)
 
+## 참고 사이트
+
+### 참고 Github
+- https://github.com/gyuha/my-keyboard
 
