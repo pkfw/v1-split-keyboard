@@ -10,6 +10,9 @@
   - F1 ~ F12 바로 위에 배치할 계획
 - 추가로 매크로 키 배열이 엄청 많으면 좋겠다.
 
+## 키보드 전체 레이아웃
+![total-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/50cd9230-04ec-44e3-9cc8-e9991c7fb335)
+
 ## 키보드 레이아웃 제작 사이트
 http://www.keyboard-layout-editor.com/#/
 
@@ -29,9 +32,6 @@ http://www.keyboard-layout-editor.com/#/
 [{c:"#c8c3b8",w:1.5},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt"],
 [{r:-30,y:2,w:2.75},"Space"]
 ```
-![left-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/6797572f-0429-4ea7-9331-5b93436215e9)
-
-
 
 ### 우측
 ```
@@ -46,10 +46,10 @@ http://www.keyboard-layout-editor.com/#/
 [{y:0.5,x:9.5,c:"#63696a",t:"fffffff"},"M20","M21","M22"],
 [{r:30,y:-3.25,x:4,c:"#c8c3b8",t:"#000000",w:2.75},"Space"]
 ```
-![right-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/354e41ee-dca4-4dcb-93eb-2e2fcc43866d)
 
 ### 종합
 `Summary` 탭에 들어가면 구성한 키보드의 키캡을 정리 및 요약해서 보여준다.
 
-![total-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/4476e8d3-031f-4067-9030-4564a401319c)
+![summary-split-keyboard-layout](https://github.com/soboti/v1-split-keyboard/assets/109705692/8a40239b-e950-496c-b742-4fa977e18f57)
+
 
